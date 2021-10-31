@@ -3,7 +3,7 @@
 ## 👀 - **Sobre**
 
 Estudante autodidata, apaixonado por tecnologia, em busca constante de aprendizagem em Front-end.
-Projeto para prática dos conceitos adquiridos sobre a linguagem JavaScript, html, css e React.
+Abaixo, repositórios com práticas, dos conceitos e conhecimentos adquiridos sobre a linguagem JavaScript, html, css e React.
 
 ## 👨‍🎓 - **Fontes de Aprendizagem**
 
