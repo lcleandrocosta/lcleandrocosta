@@ -2,8 +2,8 @@
 
 ## 👀 - **Sobre**
 
-Estudante autodidata, apaixonado por tecnologia, em busca constante de aprendizagem em Front-end.
-Abaixo, repositórios com práticas, dos conceitos e conhecimentos adquiridos sobre a linguagem JavaScript, html, css e React.
+Estudante autodidata, apaixonado por tecnologia, em busca constante de aprendizagem em Front-end e Back-end.
+Abaixo, repositórios com práticas, dos conceitos e conhecimentos adquiridos sobre a linguagem JavaScript, html, css, java e python.
 
 ## 👨‍🎓 - **Fontes de Aprendizagem**
 
@@ -12,7 +12,7 @@ Abaixo, repositórios com práticas, dos conceitos e conhecimentos adquiridos so
 - Learn to Code - for free
 - W3 School
 - MDN Webdocs
-- Tutorial: Introdução ao React
+- Oracle ONE - Alura
 
 
 ## 🛠 - **Tecnologias**
@@ -20,7 +20,8 @@ Abaixo, repositórios com práticas, dos conceitos e conhecimentos adquiridos so
 - JavaScript
 - HTML
 - CSS
-- React
+- Java
+- Python
 - VS Code
 
 🐱‍🏍 **Desenvolvido por Leandro Costa**
