@@ -20,6 +20,6 @@ Desenvolvedor iniciante focado em backend <img align="center" alt="java" src="ht
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&www.linkedin.com/in/leandro-costa-da-silva-19298923)](www.linkedin.com/in/leandro-costa-da-silva-19298923)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leandro-costa-da-silva-19298923)
 
 Leandro Costa sempre em busca de conhecimento!🚀
